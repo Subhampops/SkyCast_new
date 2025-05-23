@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { WeatherData, ForecastData, LocationData } from '../types/weather';
 
-const API_KEY = 'e3b9dc7edef541569bf141210252305';
+const API_KEY = e3b9dc7edef541569bf141210252305;
 const BASE_URL = 'https://api.weatherapi.com/v1';
 
 // Get current weather data for a location
